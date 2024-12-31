@@ -40,7 +40,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre os temas scrum e transformação digital, o ebook é do nincho de inovação e o subnicho é de scrum e tenha uma temática de Caverna do Dragão no título, me liste 5 variações de títulos                                                       |
+|  título  | Crie um título de um ebook sobre os temas scrum e transformação digital, o ebook é do nincho de inovação e o subnicho é de scrum, me liste 5 variações de títulos                                                       |
 | conteúdo | Faça um texto para ebook, com foco em SCRUM, listando os principais benefícios em um contexto de Transformação Digital {REGRAS} explique sempre de uma maneira simples, púbico alvo são pessoas que ainda não aderiram à Transformação Digital,sempre traga exemplos em contextos reais, sempre deixe um texto sugestivo por tópico
 |
 
